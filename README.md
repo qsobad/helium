@@ -5,6 +5,11 @@ For example:
 
 ![Helium Demo](docs/helium-demo.gif)
 
+Helium is being sponsored by [BirdProxies](https://birdproxies.com). Check them
+out if you need a proxy for your web automation tasks!
+
+[![BirdProxies logo](https://www.birdproxies.com/assets/icons/logo.svg)](https://birdproxies.com)
+
 ## Installation
 
 To get started with Helium, you need Python 3 and Chrome or Firefox.
