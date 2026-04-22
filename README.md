@@ -9,7 +9,7 @@ Helium is being sponsored by
 [RapidProxy](https://www.rapidproxy.io/?ref=herrmann). Check them out if you
 need a proxy for your web automation tasks!
 
-[![RapidProxy logo](docs/sponsor.png)](https://www.rapidproxy.io/?ref=herrmann)
+[![RapidProxy logo](docs/sponsor-2.png)](https://www.rapidproxy.io/?ref=herrmann)
 
 ## Installation
 
